@@ -1,0 +1,19 @@
+{
+  "name": "discord-random-picker",
+  "version": "1.0.0",
+  "description": "Discord bot for picking random winner based on user input options",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwkwardKore/discord-random-picker.git"
+  },
+  "author": "Rolando Islas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwkwardKore/discord-random-picker/issues"
+  },
+  "homepage": "https://github.com/AwkwardKore/discord-random-picker#readme"
+}
